@@ -1,6 +1,7 @@
 # ChaloNiklo ✈️
 
 A fun and quirky travel agency landing page designed to inspire spontaneous travel! The tagline says it all: **"Socho Mat, Niklo Fatafat!"** (Don't think, just leave quickly!).
+You can visit the frontend here **"https://piyushcodes7.github.io/ChaloNiklo/"**
 
 This project was created with a design-first approach, starting from a concept in **Figma** and then brought to life with HTML, CSS, and JavaScript, with inspiration from **Evolve AI**.
 
